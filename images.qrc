@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pictures/1.gif</file>
+        <file>pictures/2.gif</file>
+        <file>pictures/3.gif</file>
+        <file>pictures/4.gif</file>
+        <file>pictures/5.gif</file>
+        <file>pictures/6.gif</file>
+        <file>pictures/7.gif</file>
+        <file>pictures/8.gif</file>
+        <file>pictures/about.gif</file>
+        <file>pictures/bomb.gif</file>
+        <file>pictures/bomb.jpg</file>
+        <file>pictures/Images.jpg</file>
+        <file>pictures/lose.png</file>
+        <file>pictures/Main_window.jpg</file>
+        <file>pictures/Mark.jpg</file>
+        <file>pictures/marked.gif</file>
+        <file>pictures/normal.png</file>
+        <file>pictures/scanned.gif</file>
+        <file>pictures/unscanned.gif</file>
+        <file>pictures/win.png</file>
+        <file>pictures/You_fail.jpg</file>
+        <file>pictures/You_win.jpg</file>
+    </qresource>
+</RCC>
